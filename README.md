@@ -1,4 +1,4 @@
-# Adaptive kNN-MT
+# kNN-MT is Meta-Optimizer on OPL
 
 Code for our EMNLP 2023 paper "Nearest Neighbor Machine Translation is Meta-Optimizer on Output Projection Layer". 
 Please cite our paper if you find this repository helpful in your research:
